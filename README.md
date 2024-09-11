@@ -10,7 +10,7 @@ The platform aids users further by enabling the customization of recipes accordi
 
 #
 
-![Plant Food Creator](https://github.com/sourceduty/Plant_Food_Creator/assets/123030236/40f1321b-0141-4be6-bf7e-a2caa33506d2)![Uploading Electrobiologies.jpg…]()
+![Plant Food Creator](https://github.com/sourceduty/Plant_Food_Creator/assets/123030236/40f1321b-0141-4be6-bf7e-a2caa33506d2)
 
 
 #
